@@ -1,0 +1,6 @@
+/home/vlad/lab-03/formatter_ex_lib/_build/CMakeFiles/formatter_ex.dir
+/home/vlad/lab-03/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
+/home/vlad/lab-03/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir
+/home/vlad/lab-03/formatter_ex_lib/_build/formatter/CMakeFiles/formatter.dir
+/home/vlad/lab-03/formatter_ex_lib/_build/formatter/CMakeFiles/edit_cache.dir
+/home/vlad/lab-03/formatter_ex_lib/_build/formatter/CMakeFiles/rebuild_cache.dir
